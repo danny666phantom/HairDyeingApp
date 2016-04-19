@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E18C19FD1C8D1A1100FCD813"
-               BuildableName = "ToDo List.app"
-               BlueprintName = "ToDo List"
-               ReferencedContainer = "container:ToDo List.xcodeproj">
+               BuildableName = "Hair Dyeing App.app"
+               BlueprintName = "Hair Dyeing App"
+               ReferencedContainer = "container:Hair Dyeing App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E18C1A131C8D1A1100FCD813"
-               BuildableName = "ToDo ListTests.xctest"
-               BlueprintName = "ToDo ListTests"
-               ReferencedContainer = "container:ToDo List.xcodeproj">
+               BuildableName = "Hair Dyeing App.xctest"
+               BlueprintName = "Hair Dyeing AppTests"
+               ReferencedContainer = "container:Hair Dyeing App.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E18C1A1E1C8D1A1100FCD813"
-               BuildableName = "ToDo ListUITests.xctest"
-               BlueprintName = "ToDo ListUITests"
-               ReferencedContainer = "container:ToDo List.xcodeproj">
+               BuildableName = "Hair Dyeing App.xctest"
+               BlueprintName = "Hair Dyeing AppUITests"
+               ReferencedContainer = "container:Hair Dyeing App.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E18C19FD1C8D1A1100FCD813"
-            BuildableName = "ToDo List.app"
-            BlueprintName = "ToDo List"
-            ReferencedContainer = "container:ToDo List.xcodeproj">
+            BuildableName = "Hair Dyeing App.app"
+            BlueprintName = "Hair Dyeing App"
+            ReferencedContainer = "container:Hair Dyeing App.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E18C19FD1C8D1A1100FCD813"
-            BuildableName = "ToDo List.app"
-            BlueprintName = "ToDo List"
-            ReferencedContainer = "container:ToDo List.xcodeproj">
+            BuildableName = "Hair Dyeing App.app"
+            BlueprintName = "Hair Dyeing App"
+            ReferencedContainer = "container:Hair Dyeing App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E18C19FD1C8D1A1100FCD813"
-            BuildableName = "ToDo List.app"
-            BlueprintName = "ToDo List"
-            ReferencedContainer = "container:ToDo List.xcodeproj">
+            BuildableName = "Hair Dyeing App.app"
+            BlueprintName = "Hair Dyeing App"
+            ReferencedContainer = "container:Hair Dyeing App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
