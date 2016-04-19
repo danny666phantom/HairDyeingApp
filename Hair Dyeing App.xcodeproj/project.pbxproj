@@ -17,8 +17,8 @@
 		E18C1A091C8D1A1100FCD813 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18C1A071C8D1A1100FCD813 /* Main.storyboard */; };
 		E18C1A0B1C8D1A1100FCD813 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E18C1A0A1C8D1A1100FCD813 /* Assets.xcassets */; };
 		E18C1A0E1C8D1A1100FCD813 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18C1A0C1C8D1A1100FCD813 /* LaunchScreen.storyboard */; };
-		E18C1A191C8D1A1100FCD813 /* ToDo_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18C1A181C8D1A1100FCD813 /* ToDo_ListTests.swift */; };
-		E18C1A241C8D1A1100FCD813 /* ToDo_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18C1A231C8D1A1100FCD813 /* ToDo_ListUITests.swift */; };
+		E18C1A191C8D1A1100FCD813 /* Hair Dyeing AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18C1A181C8D1A1100FCD813 /* Hair Dyeing AppTests.swift */; };
+		E18C1A241C8D1A1100FCD813 /* Hair Dyeing AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18C1A231C8D1A1100FCD813 /* Hair Dyeing AppUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,10 +52,10 @@
 		E18C1A0D1C8D1A1100FCD813 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E18C1A0F1C8D1A1100FCD813 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E18C1A141C8D1A1100FCD813 /* Hair Dyeing App.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hair Dyeing App.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E18C1A181C8D1A1100FCD813 /* ToDo_ListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListTests.swift; sourceTree = "<group>"; };
+		E18C1A181C8D1A1100FCD813 /* Hair Dyeing AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hair Dyeing AppTests.swift"; sourceTree = "<group>"; };
 		E18C1A1A1C8D1A1100FCD813 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E18C1A1F1C8D1A1100FCD813 /* Hair Dyeing App.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hair Dyeing App.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E18C1A231C8D1A1100FCD813 /* ToDo_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListUITests.swift; sourceTree = "<group>"; };
+		E18C1A231C8D1A1100FCD813 /* Hair Dyeing AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hair Dyeing AppUITests.swift"; sourceTree = "<group>"; };
 		E18C1A251C8D1A1100FCD813 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -87,9 +87,9 @@
 		E18C19F51C8D1A1100FCD813 = {
 			isa = PBXGroup;
 			children = (
-				E18C1A001C8D1A1100FCD813 /* ToDo List */,
-				E18C1A171C8D1A1100FCD813 /* ToDo ListTests */,
-				E18C1A221C8D1A1100FCD813 /* ToDo ListUITests */,
+				E18C1A001C8D1A1100FCD813 /* Hair Dyeing App */,
+				E18C1A171C8D1A1100FCD813 /* Hair Dyeing App ListTests */,
+				E18C1A221C8D1A1100FCD813 /* Hair Dyeing App ListUITests */,
 				E18C19FF1C8D1A1100FCD813 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -104,7 +104,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E18C1A001C8D1A1100FCD813 /* ToDo List */ = {
+		E18C1A001C8D1A1100FCD813 /* Hair Dyeing App */ = {
 			isa = PBXGroup;
 			children = (
 				E187CFC91CC616E900951B5D /* dye-hair-color-tutorial.jpg */,
@@ -119,24 +119,27 @@
 				E18C1A0C1C8D1A1100FCD813 /* LaunchScreen.storyboard */,
 				E18C1A0F1C8D1A1100FCD813 /* Info.plist */,
 			);
+			name = "Hair Dyeing App";
 			path = "ToDo List";
 			sourceTree = "<group>";
 		};
-		E18C1A171C8D1A1100FCD813 /* ToDo ListTests */ = {
+		E18C1A171C8D1A1100FCD813 /* Hair Dyeing App ListTests */ = {
 			isa = PBXGroup;
 			children = (
-				E18C1A181C8D1A1100FCD813 /* ToDo_ListTests.swift */,
+				E18C1A181C8D1A1100FCD813 /* Hair Dyeing AppTests.swift */,
 				E18C1A1A1C8D1A1100FCD813 /* Info.plist */,
 			);
+			name = "Hair Dyeing App ListTests";
 			path = "ToDo ListTests";
 			sourceTree = "<group>";
 		};
-		E18C1A221C8D1A1100FCD813 /* ToDo ListUITests */ = {
+		E18C1A221C8D1A1100FCD813 /* Hair Dyeing App ListUITests */ = {
 			isa = PBXGroup;
 			children = (
-				E18C1A231C8D1A1100FCD813 /* ToDo_ListUITests.swift */,
+				E18C1A231C8D1A1100FCD813 /* Hair Dyeing AppUITests.swift */,
 				E18C1A251C8D1A1100FCD813 /* Info.plist */,
 			);
+			name = "Hair Dyeing App ListUITests";
 			path = "ToDo ListUITests";
 			sourceTree = "<group>";
 		};
@@ -285,7 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E18C1A191C8D1A1100FCD813 /* ToDo_ListTests.swift in Sources */,
+				E18C1A191C8D1A1100FCD813 /* Hair Dyeing AppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,7 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E18C1A241C8D1A1100FCD813 /* ToDo_ListUITests.swift in Sources */,
+				E18C1A241C8D1A1100FCD813 /* Hair Dyeing AppUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
